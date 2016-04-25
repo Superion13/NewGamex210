@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: ffe417ef4ef488e43b0694185b178706
+timeCreated: 1461608189
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'Lizardman Sprite Sheet #1 noBG_0'
+    21300002: 'Lizardman Sprite Sheet #1 noBG_1'
+    21300004: 'Lizardman Sprite Sheet #1 noBG_2'
+    21300006: 'Lizardman Sprite Sheet #1 noBG_3'
+    21300008: 'Lizardman Sprite Sheet #1 noBG_4'
+    21300010: 'Lizardman Sprite Sheet #1 noBG_5'
+    21300012: 'Lizardman Sprite Sheet #1 noBG_6'
+    21300014: 'Lizardman Sprite Sheet #1 noBG_7'
+    21300016: 'Lizardman Sprite Sheet #1 noBG_8'
+    21300018: 'Lizardman Sprite Sheet #1 noBG_9'
+    21300020: 'Lizardman Sprite Sheet #1 noBG_10'
+    21300022: 'Lizardman Sprite Sheet #1 noBG_11'
+    21300024: 'Lizardman Sprite Sheet #1 noBG_12'
+    21300026: 'Lizardman Sprite Sheet #1 noBG_13'
+    21300028: 'Lizardman Sprite Sheet #1 noBG_14'
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 19
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 'Lizardman Sprite Sheet #1 noBG_0'
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1143
+        width: 636
+        height: 1016
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.424545, y: 131.00409}
+        - {x: -75.424545, y: 74.00409}
+        - {x: -81.424545, y: 54.00409}
+        - {x: -81.424545, y: 12.004089}
+        - {x: -53.424545, y: -6.9959106}
+        - {x: -52.424545, y: -129.99591}
+        - {x: 82.575455, y: -129.99591}
+        - {x: 82.575455, y: 57.00409}
+        - {x: 81.575455, y: 68.00409}
+        - {x: 28.575455, y: 128.00409}
+        - {x: 14.575455, y: 131.00409}
+    - name: 'Lizardman Sprite Sheet #1 noBG_1'
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1174
+        width: 633
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.79953, y: -122.062744}
+        - {x: 81.79953, y: -58.062744}
+        - {x: 81.79953, y: 6.937256}
+        - {x: 19.79953, y: 118.937256}
+        - {x: 1.79953, y: 122.937256}
+        - {x: -32.20047, y: 122.937256}
+        - {x: -43.20047, y: 101.937256}
+        - {x: -81.20047, y: 15.937256}
+        - {x: -81.20047, y: -102.062744}
+        - {x: -65.20047, y: -122.062744}
+        - {x: -7.20047, y: -122.062744}
+        - {x: -5.20047, y: -119.062744}
+        - {x: -2.20047, y: -112.062744}
+        - {x: 1.79953, y: -122.062744}
+    - name: 'Lizardman Sprite Sheet #1 noBG_2'
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1170
+        width: 379
+        height: 962
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.354553, y: 123.913635}
+        - {x: -41.645447, y: 123.913635}
+        - {x: -48.645447, y: 95.913635}
+        - {x: -48.645447, y: -103.086365}
+        - {x: -40.645447, y: -123.086365}
+        - {x: 37.354553, y: -123.086365}
+        - {x: 49.354553, y: -84.086365}
+        - {x: 49.354553, y: 13.913635}
+        - {x: 23.354553, y: 112.913635}
+    - name: 'Lizardman Sprite Sheet #1 noBG_3'
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 1170
+        width: 305
+        height: 962
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.417297, y: 123.913635}
+        - {x: -39.417297, y: -123.086365}
+        - {x: 24.582703, y: -123.086365}
+        - {x: 39.582703, y: -113.086365}
+        - {x: 39.582703, y: 46.913635}
+        - {x: 29.582703, y: 123.913635}
+    - name: 'Lizardman Sprite Sheet #1 noBG_4'
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 1166
+        width: 378
+        height: 966
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.724121, y: 116.389984}
+        - {x: 19.724121, y: 124.389984}
+        - {x: -39.27588, y: 124.389984}
+        - {x: -48.27588, y: 120.389984}
+        - {x: -48.27588, y: -63.610016}
+        - {x: -41.27588, y: -123.610016}
+        - {x: 33.72412, y: -123.610016}
+        - {x: 36.72412, y: -121.610016}
+        - {x: 48.72412, y: -77.610016}
+        - {x: 48.72412, y: 34.389984}
+    - name: 'Lizardman Sprite Sheet #1 noBG_5'
+      rect:
+        serializedVersion: 2
+        x: 5193
+        y: 1163
+        width: 633
+        height: 976
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.435913, y: 126.12225}
+        - {x: -40.564087, y: 126.12225}
+        - {x: -47.564087, y: 108.12225}
+        - {x: -80.56409, y: 10.122253}
+        - {x: -80.56409, y: -17.877747}
+        - {x: -76.56409, y: -25.877747}
+        - {x: -64.56409, y: -29.877747}
+        - {x: -55.564087, y: -28.877747}
+        - {x: -67.56409, y: -124.87775}
+        - {x: 82.43591, y: -124.87775}
+        - {x: 82.43591, y: 53.122253}
+        - {x: 50.435913, y: 118.12225}
+    - name: 'Lizardman Sprite Sheet #1 noBG_6'
+      rect:
+        serializedVersion: 2
+        x: 6334
+        y: 1534
+        width: 332
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.0719, y: 31.064545}
+        - {x: -42.0719, y: 30.064545}
+        - {x: -42.0719, y: 2.0645447}
+        - {x: 10.928101, y: -29.935455}
+        - {x: 42.9281, y: -29.935455}
+        - {x: 43.9281, y: -18.935455}
+        - {x: 43.9281, y: 29.064545}
+        - {x: 40.9281, y: 31.064545}
+    - name: 'Lizardman Sprite Sheet #1 noBG_7'
+      rect:
+        serializedVersion: 2
+        x: 7447
+        y: 1608
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 'Lizardman Sprite Sheet #1 noBG_8'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 996
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.48818, y: 130.99228}
+        - {x: -127.48818, y: 107.99228}
+        - {x: -127.48818, y: 72.99228}
+        - {x: -32.488182, y: 26.99228}
+        - {x: -16.488182, y: -130.00772}
+        - {x: 128.51181, y: -130.00772}
+        - {x: 128.51181, y: 63.99228}
+        - {x: 92.51182, y: 130.99228}
+    - name: 'Lizardman Sprite Sheet #1 noBG_9'
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 72
+        width: 988
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.60274, y: 122.92545}
+        - {x: -126.60274, y: 72.92545}
+        - {x: -78.60274, y: 29.925453}
+        - {x: -13.602737, y: -122.07455}
+        - {x: 99.39726, y: -122.07455}
+        - {x: 127.39726, y: -97.07455}
+        - {x: 127.39726, y: 44.925453}
+        - {x: 108.39726, y: 122.92545}
+    - name: 'Lizardman Sprite Sheet #1 noBG_10'
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 68
+        width: 867
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.806366, y: 124.40182}
+        - {x: 21.806366, y: 124.40182}
+        - {x: 11.806366, y: 105.40182}
+        - {x: -31.193634, y: 117.40182}
+        - {x: -100.193634, y: 111.40182}
+        - {x: -111.193634, y: 100.40182}
+        - {x: -111.193634, y: 73.40182}
+        - {x: -64.193634, y: 30.401817}
+        - {x: 31.806366, y: -123.59818}
+        - {x: 100.806366, y: -123.59818}
+        - {x: 111.806366, y: -94.59818}
+        - {x: 111.806366, y: 69.40182}
+        - {x: 100.806366, y: 115.40182}
+    - name: 'Lizardman Sprite Sheet #1 noBG_11'
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 68
+        width: 824
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.804138, y: 123.90182}
+        - {x: -105.80414, y: 117.90182}
+        - {x: -105.80414, y: 72.90182}
+        - {x: 36.19586, y: -123.09818}
+        - {x: 106.19586, y: -123.09818}
+        - {x: 106.19586, y: 115.90182}
+        - {x: 96.19586, y: 123.90182}
+    - name: 'Lizardman Sprite Sheet #1 noBG_12'
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 68
+        width: 848
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.91455, y: 124.40182}
+        - {x: -108.91455, y: 108.40182}
+        - {x: -108.91455, y: 72.40182}
+        - {x: -59.91455, y: 28.401817}
+        - {x: 12.085449, y: -123.59818}
+        - {x: 109.08545, y: -123.59818}
+        - {x: 109.08545, y: 89.40182}
+        - {x: 87.08545, y: 124.40182}
+    - name: 'Lizardman Sprite Sheet #1 noBG_13'
+      rect:
+        serializedVersion: 2
+        x: 5045
+        y: 64
+        width: 906
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.93872, y: 125.87818}
+        - {x: -115.93872, y: 63.87818}
+        - {x: -75.93872, y: 9.878181}
+        - {x: -15.938721, y: -36.12182}
+        - {x: -0.9387207, y: -30.121819}
+        - {x: -8.938721, y: -78.12182}
+        - {x: -1.9387207, y: -120.12182}
+        - {x: 21.06128, y: -125.12182}
+        - {x: 116.06128, y: -125.12182}
+        - {x: 116.06128, y: -32.12182}
+        - {x: 98.06128, y: 107.87818}
+        - {x: 70.06128, y: 125.87818}
+    - name: 'Lizardman Sprite Sheet #1 noBG_14'
+      rect:
+        serializedVersion: 2
+        x: 5998
+        y: 0
+        width: 2002
+        height: 1104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -255.05725, y: 141.5}
+        - {x: -256.05725, y: 140.5}
+        - {x: -256.05725, y: -141.5}
+        - {x: 257.94275, y: -141.5}
+        - {x: 257.94275, y: 141.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

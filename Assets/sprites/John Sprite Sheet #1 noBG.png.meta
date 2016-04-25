@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 018ee96f7ebf4ed40bde2debcce931a8
+timeCreated: 1461563642
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'John Sprite Sheet #1 noBG_0'
+    21300002: 'John Sprite Sheet #1 noBG_1'
+    21300004: 'John Sprite Sheet #1 noBG_2'
+    21300006: 'John Sprite Sheet #1 noBG_3'
+    21300008: 'John Sprite Sheet #1 noBG_4'
+    21300010: 'John Sprite Sheet #1 noBG_5'
+    21300012: 'John Sprite Sheet #1 noBG_6'
+    21300014: 'John Sprite Sheet #1 noBG_7'
+    21300016: 'John Sprite Sheet #1 noBG_8'
+    21300018: 'John Sprite Sheet #1 noBG_9'
+    21300020: 'John Sprite Sheet #1 noBG_10'
+    21300022: 'John Sprite Sheet #1 noBG_11'
+    21300024: 'John Sprite Sheet #1 noBG_12'
+    21300026: 'John Sprite Sheet #1 noBG_13'
+    21300028: 'John Sprite Sheet #1 noBG_14'
+    21300030: 'John Sprite Sheet #1 noBG_15'
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 'John Sprite Sheet #1 noBG_0'
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1112
+        width: 636
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.575455, y: 51.570892}
+        - {x: 39.575455, y: 138.57089}
+        - {x: -38.424545, y: 138.57089}
+        - {x: -79.424545, y: 83.57089}
+        - {x: -81.424545, y: 56.570892}
+        - {x: -81.424545, y: -137.42911}
+        - {x: 50.575455, y: -137.42911}
+        - {x: 54.575455, y: -3.4291077}
+        - {x: 82.575455, y: 3.5708923}
+    - name: 'John Sprite Sheet #1 noBG_1'
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1166
+        width: 632
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.98456, y: 131.88998}
+        - {x: -80.98456, y: 0.88998413}
+        - {x: -80.98456, y: -35.110016}
+        - {x: -68.98456, y: -39.110016}
+        - {x: -64.98456, y: -40.110016}
+        - {x: -56.98456, y: -38.110016}
+        - {x: -35.98456, y: -21.110016}
+        - {x: -31.984558, y: -17.110016}
+        - {x: -29.984558, y: -17.110016}
+        - {x: -32.98456, y: -19.110016}
+        - {x: -43.98456, y: -38.110016}
+        - {x: -59.98456, y: -105.110016}
+        - {x: -46.98456, y: -131.11002}
+        - {x: 53.01544, y: -131.11002}
+        - {x: 82.01544, y: -69.110016}
+        - {x: 82.01544, y: 14.889984}
+        - {x: 35.01544, y: 131.88998}
+    - name: 'John Sprite Sheet #1 noBG_2'
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 1139
+        width: 378
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.594116, y: 131.98044}
+        - {x: -32.594116, y: 124.98044}
+        - {x: -48.594116, y: 9.980438}
+        - {x: -48.594116, y: -51.01956}
+        - {x: -35.594116, y: -131.01956}
+        - {x: 33.405884, y: -131.01956}
+        - {x: 49.405884, y: -94.01956}
+        - {x: 49.405884, y: 131.98044}
+    - name: 'John Sprite Sheet #1 noBG_3'
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 1139
+        width: 308
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.72821, y: 131.98044}
+        - {x: -34.72821, y: 124.98044}
+        - {x: -39.72821, y: 62.98044}
+        - {x: -39.72821, y: -121.01956}
+        - {x: -30.72821, y: -131.01956}
+        - {x: 28.27179, y: -131.01956}
+        - {x: 40.27179, y: -128.01956}
+        - {x: 40.27179, y: 131.98044}
+    - name: 'John Sprite Sheet #1 noBG_4'
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 1139
+        width: 378
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.27588, y: 131.98044}
+        - {x: -48.27588, y: 68.98044}
+        - {x: -48.27588, y: -119.01956}
+        - {x: -46.27588, y: -131.01956}
+        - {x: 40.72412, y: -131.01956}
+        - {x: 48.72412, y: -129.01956}
+        - {x: 48.72412, y: 131.98044}
+    - name: 'John Sprite Sheet #1 noBG_5'
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 1135
+        width: 633
+        height: 1036
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.59729, y: 14.456818}
+        - {x: 39.59729, y: 132.45682}
+        - {x: 32.59729, y: 133.45682}
+        - {x: -31.40271, y: 133.45682}
+        - {x: -36.40271, y: 127.45682}
+        - {x: -81.40271, y: 52.456818}
+        - {x: -81.40271, y: -103.54318}
+        - {x: -52.40271, y: -132.54318}
+        - {x: 35.59729, y: -132.54318}
+        - {x: 60.59729, y: -123.54318}
+        - {x: 81.59729, y: -66.54318}
+    - name: 'John Sprite Sheet #1 noBG_6'
+      rect:
+        serializedVersion: 2
+        x: 6334
+        y: 1534
+        width: 332
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.0719, y: 31.064545}
+        - {x: -42.0719, y: -29.935455}
+        - {x: 9.928101, y: -29.935455}
+        - {x: 43.9281, y: -15.935455}
+        - {x: 43.9281, y: 31.064545}
+    - name: 'John Sprite Sheet #1 noBG_7'
+      rect:
+        serializedVersion: 2
+        x: 7447
+        y: 1608
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 'John Sprite Sheet #1 noBG_8'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 996
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128.51181, y: 133.58273}
+        - {x: -2.488182, y: 137.58273}
+        - {x: -4.488182, y: 138.58273}
+        - {x: -87.48818, y: 138.58273}
+        - {x: -127.48818, y: 77.58273}
+        - {x: -127.48818, y: -137.41727}
+        - {x: 23.511818, y: -137.41727}
+        - {x: 5.511818, y: -51.417267}
+        - {x: 113.51182, y: 44.582733}
+        - {x: 128.51181, y: 72.58273}
+    - name: 'John Sprite Sheet #1 noBG_9'
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 37
+        width: 977
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.216827, y: -121.03136}
+        - {x: -38.216827, y: -127.03136}
+        - {x: -35.216827, y: -131.03136}
+        - {x: 5.7831726, y: -131.03136}
+        - {x: 15.783173, y: -118.03136}
+        - {x: 125.78317, y: 67.96864}
+        - {x: 125.78317, y: 99.96864}
+        - {x: 10.783173, y: 131.96864}
+        - {x: -87.21683, y: 131.96864}
+        - {x: -125.21683, y: 25.968643}
+        - {x: -125.21683, y: -37.031357}
+        - {x: -101.21683, y: -41.031357}
+        - {x: -79.21683, y: -20.031357}
+        - {x: -76.21683, y: -18.031357}
+        - {x: -81.21683, y: -23.031357}
+        - {x: -104.21683, y: -80.03136}
+        - {x: -96.21683, y: -131.03136}
+        - {x: -46.216827, y: -131.03136}
+        - {x: -43.216827, y: -126.03136}
+        - {x: -42.216827, y: -117.03136}
+    - name: 'John Sprite Sheet #1 noBG_10'
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 64
+        width: 855
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.61047, y: 131.87817}
+        - {x: -109.61047, y: 10.878174}
+        - {x: -109.61047, y: -68.121826}
+        - {x: -97.61047, y: -101.121826}
+        - {x: -86.61047, y: -131.12183}
+        - {x: -15.610474, y: -131.12183}
+        - {x: 110.38953, y: -51.121826}
+        - {x: 110.38953, y: 131.87817}
+    - name: 'John Sprite Sheet #1 noBG_11'
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 37
+        width: 816
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.270874, y: 131.96864}
+        - {x: -104.729126, y: 131.96864}
+        - {x: -104.729126, y: -131.03136}
+        - {x: -35.729126, y: -131.03136}
+        - {x: 74.270874, y: 12.968643}
+        - {x: 105.270874, y: 66.96864}
+        - {x: 105.270874, y: 118.96864}
+    - name: 'John Sprite Sheet #1 noBG_12'
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 37
+        width: 816
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.17993, y: 131.96864}
+        - {x: -104.82007, y: 131.96864}
+        - {x: -104.82007, y: -109.03136}
+        - {x: -85.82007, y: -131.03136}
+        - {x: -22.820068, y: -131.03136}
+        - {x: 17.179932, y: -53.031357}
+        - {x: 105.17993, y: 71.96864}
+        - {x: 105.17993, y: 113.96864}
+    - name: 'John Sprite Sheet #1 noBG_13'
+      rect:
+        serializedVersion: 2
+        x: 5104
+        y: 0
+        width: 2896
+        height: 1104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -141.84009, y: 141.5}
+        - {x: -142.84009, y: 140.5}
+        - {x: -142.84009, y: 91.5}
+        - {x: -153.84009, y: 92.5}
+        - {x: -155.84009, y: 87.5}
+        - {x: -174.84009, y: 96.5}
+        - {x: -216.84009, y: 96.5}
+        - {x: -226.84009, y: 90.5}
+        - {x: -229.84009, y: 85.5}
+        - {x: -227.84009, y: 71.5}
+        - {x: -219.84009, y: 68.5}
+        - {x: -236.84009, y: 70.5}
+        - {x: -266.8401, y: 68.5}
+        - {x: -287.8401, y: 70.5}
+        - {x: -282.8401, y: 84.5}
+        - {x: -279.8401, y: 127.5}
+        - {x: -287.8401, y: 133.5}
+        - {x: -328.8401, y: 133.5}
+        - {x: -333.8401, y: 131.5}
+        - {x: -335.8401, y: 129.5}
+        - {x: -340.8401, y: 125.5}
+        - {x: -341.8401, y: 92.5}
+        - {x: -334.8401, y: 78.5}
+        - {x: -343.8401, y: 62.5}
+        - {x: -345.8401, y: 57.5}
+        - {x: -345.8401, y: -1.5}
+        - {x: -347.8401, y: -15.5}
+        - {x: -352.8401, y: -23.5}
+        - {x: -370.8401, y: -78.5}
+        - {x: -370.8401, y: -98.5}
+        - {x: -365.8401, y: -119.5}
+        - {x: -360.8401, y: -125.5}
+        - {x: -350.8401, y: -128.5}
+        - {x: -326.8401, y: -134.5}
+        - {x: -319.8401, y: -126.5}
+        - {x: -319.8401, y: -122.5}
+        - {x: -321.8401, y: -115.5}
+        - {x: -315.8401, y: -106.5}
+        - {x: -311.8401, y: -109.5}
+        - {x: -299.8401, y: -109.5}
+        - {x: -294.8401, y: -129.5}
+        - {x: -286.8401, y: -134.5}
+        - {x: -252.84009, y: -124.5}
+        - {x: -248.84009, y: -122.5}
+        - {x: -249.84009, y: -107.5}
+        - {x: -250.84009, y: -98.5}
+        - {x: -252.84009, y: -74.5}
+        - {x: -258.8401, y: -61.5}
+        - {x: -263.8401, y: -46.5}
+        - {x: -273.8401, y: -20.5}
+        - {x: -251.84009, y: -36.5}
+        - {x: -243.84009, y: -39.5}
+        - {x: -226.84009, y: -25.5}
+        - {x: -227.84009, y: -16.5}
+        - {x: -238.84009, y: 9.5}
+        - {x: -251.84009, y: 23.5}
+        - {x: -230.84009, y: 24.5}
+        - {x: -208.84009, y: 30.5}
+        - {x: -199.84009, y: 31.5}
+        - {x: -193.84009, y: 44.5}
+        - {x: -193.84009, y: 66.5}
+        - {x: -173.84009, y: 64.5}
+        - {x: -170.84009, y: 75.5}
+        - {x: -152.84009, y: 71.5}
+        - {x: -142.84009, y: 71.5}
+        - {x: -142.84009, y: -141.5}
+        - {x: 371.1599, y: -141.5}
+        - {x: 371.1599, y: 141.5}
+      - - {x: -360.8401, y: -26.5}
+        - {x: -357.8401, y: -25.5}
+        - {x: -357.8401, y: -22.5}
+        - {x: -360.8401, y: -21.5}
+        - {x: -362.8401, y: -23.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
