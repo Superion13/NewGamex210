@@ -8,6 +8,6 @@ public class spinl : MonoBehaviour {
 		void Update ()
 		{
 			if (Input.GetKey(KeyCode.E))
-				transform.Rotate(Vector3.up, speed * Time.deltaTime);
+				transform.Rotate(Vector2.up, speed * Time.deltaTime);
 	}
 }

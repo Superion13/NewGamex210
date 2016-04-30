@@ -25,4 +25,7 @@ public class spacebullet : MonoBehaviour {
 			Destroy (gameObject);
 		}
 	}
+	void OnCollisionEnter(){
+		Destroy (gameObject);
+	}
 }
